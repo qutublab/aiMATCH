@@ -1,4 +1,4 @@
-### Materials for this workshop were adapted from [this repository](https://github.com/polijaimesb/2024_OpioidPrescriptionIndiana) by Paula Andrea Jaimes Buitron.
+### Materials for this workshop were adapted from [this repository](https://github.com/polijaimesb/2024_OpioidPrescriptionIndiana) by Paula Andrea Jaimes-Buitron.
 
 ### Publication 
 
